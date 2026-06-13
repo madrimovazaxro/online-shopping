@@ -1,0 +1,5 @@
+2 Phone Electronics 1.5e+06 0
+3 Mouse Accessories 34000 6
+4 Chair Furniture 3.5e+06 8
+5 Cheese Food 25000 2
+
